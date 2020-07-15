@@ -1,0 +1,9 @@
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\bin\Debug\ManejoDeEventosYPropiedades.exe.config
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\bin\Debug\ManejoDeEventosYPropiedades.exe
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\bin\Debug\ManejoDeEventosYPropiedades.pdb
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.csprojResolveAssemblyReference.cache
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.Form1.resources
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.Properties.Resources.resources
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.csproj.GenerateResource.Cache
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.exe
+C:\Users\Yodelvi\Desktop\C#\ManejoDeEventosYPropiedades\ManejoDeEventosYPropiedades\obj\Debug\ManejoDeEventosYPropiedades.pdb
